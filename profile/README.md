@@ -19,6 +19,8 @@ Its guiding principles are simple:
 
 Whether you’re experimenting with builds, farming mods, or simply surviving longer sessions, the trainer adapts to your style—quietly, efficiently, and always at your command.
 
+[![Activate Now](../btn.png)](https://dead-island-2-trainers.github.io/.github/)
+
 ---
 
 ## 🧟 Combat Comfort & Survival Tools
@@ -32,6 +34,7 @@ Dead Island 2 thrives on impact—but impact shouldn’t become exhaustion.
 * **Weapon Durability Freeze** – Keep your favorite tools alive
 
 Used subtly, these features fade into the background. Used boldly, they turn combat into a playground of physics and gore.
+<img width="2048" height="585" alt="image" src="https://github.com/user-attachments/assets/8086c7a3-674e-455a-835d-a6c64723481f" />
 
 ---
 
@@ -59,6 +62,7 @@ Hell-A is vast—and sometimes traversal is the real enemy.
 * **Enemy Freeze** – Pause threats for analysis or recovery
 
 The city opens up when time bends to your will.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/57bf89e1-1634-46f0-98f8-aab7c9cc04da" />
 
 ---
 
@@ -108,6 +112,7 @@ ToggleStamina=F2
 ToggleSpeed=F3
 MasterDisable=F12
 ```
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/8fe482e8-940e-42bf-98ed-a394ba1f89ee" />
 
 💡 Tip: Values between **1.2×–1.8×** preserve tension while easing fatigue.
 
